@@ -1,7 +1,7 @@
-# Happy-LLM 学习笔记 Task 01: 课程概览
+# Happy-LLM 学习笔记 Task 01: 内容介绍+前言 
 
 > **课程来源**: [Datawhale Happy-LLM 官网](https://datawhalechina.github.io/happy-llm/)
-> **我的笔记仓库**: `https://github.com/你的用户名/你的仓库` ---
+> **我的笔记仓库**: `[https://github.com/GuYan66/happy-llm.git]`
 
 ### 课程目标
 
