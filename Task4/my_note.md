@@ -1,4 +1,10 @@
-# 预训练语言模型
+# Happy-LLM 学习笔记 Task 04: 预训练语言模型
+
+> **课程来源**: [Datawhale Happy-LLM 官网](https://datawhalechina.github.io/happy-llm/)
+
+> **我的笔记仓库**: [https://github.com/GuYan66/happy-llm.git](https://github.com/GuYan66/happy-llm.git)
+
+---
 
 在Transformer模型诞生后，NLP领域围绕其核心组件 (Encoder和Decoder) 形成了三种主流的预训练模型架构：
 
@@ -249,7 +255,7 @@ LLaMA系列是Meta发布的、奠定了现代开源LLM技术栈基础的模型�
     <img src="https://raw.githubusercontent.com/datawhalechina/happy-llm/main/docs/images/3-figures/3-1.png" alt="alt text" width="100%">
     <p>图3.13 LLaMA-3 模型结构</p>
 </div>
-继承并优化了GPT的**Decoder-Only**架构。
+继承并优化了GPT的Decoder-Only架构。
 
 - **关键改进**:
   1. **RMSNorm**: 使用RMSNorm进行预归一化，提升训练稳定性。
